@@ -1,0 +1,17 @@
+.loginForm-container {
+  margin: 0 auto;
+}
+
+.loginForm {
+  min-width: 450px;
+  padding: 0px;
+}
+
+.ui .message {
+  text-align: center;
+}
+
+@media (max-width: 1105px) {
+  .loginForm {
+  }
+}
