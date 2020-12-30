@@ -1,0 +1,3 @@
+[submodule "kwitter-clone"]
+	path = kwitter-clone
+	url = git@gitlab.com:marcornett/kwitter-clone.git
